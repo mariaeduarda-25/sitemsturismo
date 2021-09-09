@@ -1,7 +1,7 @@
 import {createGlobalStyle} from "styled-components"
 
 export default createGlobalStyle`
- *  {
+*  {
     margin: 0;
     padding: 0;
     outline: 0;
@@ -11,5 +11,8 @@ export default createGlobalStyle`
     export  const colors = {
         yellow: "#FFE03D",
         white: "#E2DDDD",
-    }
-  
+    
+}
+
+
+
