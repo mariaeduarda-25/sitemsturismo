@@ -1,5 +1,4 @@
-import {Header} from "components"
-import { Nav } from "components/Nav/styles"
+import {Header,Nav} from "components"
 
 const home = () => {
   return (

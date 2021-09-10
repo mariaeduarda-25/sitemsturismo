@@ -3,7 +3,7 @@ import { colors } from "styles/GlobalStyle"
 
 
     export const Nav = styled.nav`
-    background-color: ${colors.yellow};
+    background-color: ${colors.white};
     border: 2px;
     `
     
