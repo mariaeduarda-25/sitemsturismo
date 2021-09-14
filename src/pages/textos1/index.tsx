@@ -1,11 +1,10 @@
-import {Header,Nav, Section2, Footer} from "components"
+import {Header,Nav, Footer} from "components"
 
 const textos1 = () => {
   return (
   <>
     <Header />
     <Nav />
-    <Section2/>
     <Footer/>
   </>
         
