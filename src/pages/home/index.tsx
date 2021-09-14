@@ -1,4 +1,4 @@
-import {Header,Nav, Section, Footer} from "components"
+import {Header, Nav, Section, Footer} from "components"
 
 const home = () => {
   return (
