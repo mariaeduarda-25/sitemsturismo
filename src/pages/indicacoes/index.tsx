@@ -1,10 +1,11 @@
-import {Header, Nav,Footer} from "components"
+import {Header, Nav,Text, Footer} from "components"
 
 const indicacoes = () => {
   return (
   <>
     <Header />
     <Nav />
+    <Text />
    <Footer/>
   </>
         
