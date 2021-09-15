@@ -1,5 +1,8 @@
 import styled from "styled-components"
 
 export const Section2 =styled.section`
- text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
 `
