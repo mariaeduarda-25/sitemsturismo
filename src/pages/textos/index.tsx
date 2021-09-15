@@ -1,6 +1,6 @@
 import {Header, Nav, Section1, Footer} from "components"
 
-const textos = () => {
+const Textos = () => {
   return (
   <>
     <Header />
@@ -12,4 +12,4 @@ const textos = () => {
         
   );
 };
-   export default textos; 
+   export default Textos; 

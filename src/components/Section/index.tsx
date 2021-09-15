@@ -27,8 +27,12 @@ const Section = () => {
           <img src={imagem5} alt="Istambul"/>  
           </picture>  
           <h2> Istambul - Turquia   </h2>  
-          <Link to ="textos">textos</Link>  
-           <Link to ="indicacoes">+indicações</Link>  
+          <Link to = "/Textos">
+            <h1> Textos</h1>
+          </Link>
+           <Link to ="/Indicacoes">
+             <h1> +indicacoes</h1>
+             </Link>  
        </div>  
   
      </S.Section> 

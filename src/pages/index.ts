@@ -1,3 +1,3 @@
-export {default as home} from "./home"
-export {default as textos} from "./textos"
-export {default as indicacoes} from "./indicacoes"
+export {default as Home} from "./Home"
+export {default as Textos} from "./Textos"
+export {default as Indicacoes} from "./Indicações"

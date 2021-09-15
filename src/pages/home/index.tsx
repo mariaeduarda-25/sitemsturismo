@@ -1,6 +1,6 @@
 import {Header, Nav, Section, Footer} from "components"
 
-const home = () => {
+const Home = () => {
   return (
   <>
     <Header />
@@ -12,4 +12,4 @@ const home = () => {
         
   );
 };
-   export default home; 
+   export default Home; 
