@@ -1,11 +1,13 @@
-import {Header, Nav, Footer} from "components"
+import {Header, Nav, Section2, Footer} from "components"
 
 const Textos2 = () => {
   return (
   <>
     <Header />
     <Nav />
-   <Footer/>
+    <Section2 />
+    <Footer />
+    
   </>
         
         
