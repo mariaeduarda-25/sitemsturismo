@@ -27,7 +27,9 @@ const Text = () => {
           <img src={imagem8} alt="Nova Iorque"/>  
           </picture>  
           <h2> Nova Iorque - EUA   </h2>  
-          <Link to ="textos2">textos2</Link>  
+          <Link to ="/Textos2">
+             <h1> Textos2</h1>
+             </Link>   
        </div>  
   
      </S.Text> 

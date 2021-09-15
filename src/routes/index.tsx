@@ -1,12 +1,13 @@
 import {Switch, Route} from "react-router-dom"
-import {Home,Textos,Indicacoes} from "pages"
+import {Home,Textos,Indicacoes,Textos2} from "pages"
 
 const Routes = () => {
   return (
     <Switch>
-        <Route path = "/" component = {Home} />
         <Route path = "/Textos" component = {Textos} />
-        <Route path = "/indicacoes" component = {Indicacoes} />
+        <Route path = "/Indicacoes" component = {Indicacoes} />
+        <Route path = "/Textos2" component = {Textos2} />
+        <Route path = "/" component = {Home} />
     </Switch>
   )
 }
