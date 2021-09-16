@@ -32,9 +32,10 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
+      ">1%",
       "not dead",
-      "not op_mini all"
+      "not op_mini all",
+      "last 1 version"
     ],
     "development": [
       "last 1 chrome version",
