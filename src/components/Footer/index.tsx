@@ -7,7 +7,7 @@ const Footer = () => {
          <picture>
            <img src={imagem1} alt="Logoinsta"/>
          </picture>
-         <h2>@msturismo</h2>
+         <h2>@msturismo25</h2>
          <div>&copy;CopyLeft</div>
        </S.Footer>
     )
