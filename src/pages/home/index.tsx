@@ -7,6 +7,7 @@ import { apiProjeto } from "services/data";
 
 
 const Home = () => {
+  // eslint-disable-next-line
  const [projects, setProjects] = useState<IProjectData[]>()
 
   useEffect(() => {
