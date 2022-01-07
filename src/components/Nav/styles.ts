@@ -6,4 +6,8 @@ import { colors } from "styles/GlobalStyle"
     background-color: ${colors.white};
     border: 2px;
     `
-    
+    export const LoginReg = styled.div`
+     background-color: ${colors.white};
+     border: 2px;
+     width: auto 
+     `
