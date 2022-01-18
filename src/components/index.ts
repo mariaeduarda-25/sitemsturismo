@@ -1,5 +1,6 @@
 export { default as Header} from "./Header"
 export { default as Nav} from "./Nav"
+export { default as NavAdm} from "./NavAdm"
 export { default as Footer} from "./Footer"
 export { default as Section} from "./Section"
 export { default as Section1} from "./Section1"

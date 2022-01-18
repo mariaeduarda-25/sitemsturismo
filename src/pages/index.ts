@@ -5,3 +5,5 @@ export {default as Textos2} from "./Textos2"
 export {default as Register} from "./register"
 export {default as Login} from "./login"
 
+export * from "./adm"
+
