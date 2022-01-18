@@ -1,4 +1,6 @@
 import {createGlobalStyle} from "styled-components"
+import 'react-toastify/dist/ReactToastify.css';
+
 
 export default createGlobalStyle`
 *  {
@@ -11,6 +13,8 @@ export default createGlobalStyle`
     export  const colors = {
         yellow: "#FFE03D",
         white: "#E2DDDD",
+        
+
     
 }
 
