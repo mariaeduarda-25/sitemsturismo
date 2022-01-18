@@ -52,7 +52,7 @@ const AdmProject= () => {
                   projects.map((item) => (
                     <tr key={item.id}>
                       <td>{item.user.email}</td>
-                      <td>{item.projeto}</td>
+                      <td>{item.locais}</td>
                       <td>
                         <Button
                           type="button"
